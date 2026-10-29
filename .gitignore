@@ -1,0 +1,19 @@
+# build artifacts
+src/part1
+src/part2
+src/part3
+src/output.txt
+output.txt
+
+# editor / OS junk
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# test artifacts
+tests/__pycache__/
+tests/.pytest_cache/
+*.tmp
+solutions.py
